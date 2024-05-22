@@ -1,0 +1,2 @@
+# cogito
+Flutter + Firebase + LangChain
